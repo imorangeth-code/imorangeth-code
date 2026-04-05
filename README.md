@@ -82,7 +82,7 @@ Become someone who:
 
 
 Status : ACTIVE
-Day : 009 / 365
+Day : 011 / 365
 Mode : LOCKED IN
 
 
